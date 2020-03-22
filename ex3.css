@@ -1,0 +1,31 @@
+
+p
+{
+  background-color: blue;
+
+}
+ul
+{
+  background-color: antiquewhite;
+}
+a.sites
+{
+  background-color: blue;
+  color: red;
+  font-size: 12px;
+}
+a.sites:hover
+{
+  background-color: yellow;
+  color: purple;
+  font-size: 20px;
+}
+a
+{
+  background-color: black;
+  color: white;
+}
+body
+{
+  background-image: url(images/spider3.jpeg);
+}
